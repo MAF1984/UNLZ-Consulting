@@ -1,14 +1,14 @@
 package edu.unlz.taller.programacion.tp.individual;
 
-public class Inmueble implements Imprimible {
+public class Inmueble implements Imprimible, Comparable<Inmueble> {
 
 	// ATRIBUTOS
-	private String domicilio;
-	private Integer superficie;
-	private Double precio;
-	private Boolean reservado;
-	private Boolean vendido;
-	private Cliente propietario;
+	protected String domicilio;
+	protected Integer superficie;
+	protected Double precio;
+	protected Boolean reservado;
+	protected Boolean vendido;
+	protected Cliente propietario;
 
 	// CONSTRUCTOR
 	/**
@@ -44,60 +44,57 @@ public class Inmueble implements Imprimible {
 
 	}
 
-	@Override
-	public boolean equals(Object obj) {
-		if (this == obj)
-			return true;
-		if (obj == null)
-			return false;
-		if (getClass() != obj.getClass())
-			return false;
-		Inmueble other = (Inmueble) obj;
-		if (domicilio == null) {
-			if (other.domicilio != null)
-				return false;
-		} else if (!domicilio.equals(other.domicilio))
-			return false;
-		if (precio == null) {
-			if (other.precio != null)
-				return false;
-		} else if (!precio.equals(other.precio))
-			return false;
-		if (propietario == null) {
-			if (other.propietario != null)
-				return false;
-		} else if (!propietario.equals(other.propietario))
-			return false;
-		if (reservado == null) {
-			if (other.reservado != null)
-				return false;
-		} else if (!reservado.equals(other.reservado))
-			return false;
-		if (superficie == null) {
-			if (other.superficie != null)
-				return false;
-		} else if (!superficie.equals(other.superficie))
-			return false;
-		if (vendido == null) {
-			if (other.vendido != null)
-				return false;
-		} else if (!vendido.equals(other.vendido))
-			return false;
-		return true;
+	/**
+	* Metodo par calcular el Beneficio Obtenido de los inmuebles que no estan reservados 
+	* ni fueron vendidos 
+	*/
+	public Double beneficioEsperado(Double COMISION) {
+		return this.precio * COMISION;
 	}
 
+	
+	//Metodo par calcular el Beneficio Obtenido de inmuebles vendidos/reservados 
+	public Double beneficioObtenido(Double COMISION) {
+			return this.precio * COMISION;
+		}
+
+
+	// metodo para comparar precios
 	@Override
-	public int hashCode() {
-		final int prime = 31;
-		int result = 1;
-		result = prime * result + ((domicilio == null) ? 0 : domicilio.hashCode());
-		result = prime * result + ((precio == null) ? 0 : precio.hashCode());
-		result = prime * result + ((propietario == null) ? 0 : propietario.hashCode());
-		result = prime * result + ((reservado == null) ? 0 : reservado.hashCode());
-		result = prime * result + ((superficie == null) ? 0 : superficie.hashCode());
-		result = prime * result + ((vendido == null) ? 0 : vendido.hashCode());
-		return result;
-	}
+		public int compareTo(Inmueble o) {
+		return this.precio.compareTo(o.getPrecio());
+		}
+		
+		@Override
+		public int hashCode() {
+			final int prime = 31;
+			int result = 1;
+			result = prime * result + ((domicilio == null) ? 0 : domicilio.hashCode());
+			result = prime * result + ((precio == null) ? 0 : precio.hashCode());
+			return result;
+		}
+
+		@Override
+		public boolean equals(Object obj) {
+			if (this == obj)
+				return true;
+			if (obj == null)
+				return false;
+			if (getClass() != obj.getClass())
+				return false;
+			Inmueble other = (Inmueble) obj;
+			if (domicilio == null) {
+				if (other.domicilio != null)
+					return false;
+			} else if (!domicilio.equals(other.domicilio))
+				return false;
+			if (precio == null) {
+				if (other.precio != null)
+					return false;
+			} else if (!precio.equals(other.precio))
+				return false;
+			return true;
+		}
 
 //GETTERS y SETTERS
 	//Getter y setter del domicilio de las propiedades de la inmobiliaria

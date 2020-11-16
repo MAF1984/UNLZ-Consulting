@@ -4,8 +4,9 @@ public class InmobiliariaTest {
 
 	/**
 	 * @param args
+	 * @throws Exception 
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		// Declaramos una inmobiliaria de prueba
 		Inmobiliaria inmobi = new Inmobiliaria("Inmobiliaria-Test", 0);
 		
@@ -36,26 +37,16 @@ public class InmobiliariaTest {
 		inmobi.agregarInmueble(inmuebleTechado);
 		inmobi.agregarInmueble(inmuebleTechReservado);
 		
-		// Elimino 2 inmuebles
-		inmobi.eliminarInmueble(inmuebleNormal);
-		inmobi.eliminarInmueble(inmuebleNormalReser);
 		
-		// Ingreso otros 2 inmuebles que no hayan sido ingresados con anterioridad
-		inmobi.agregarInmueble(inmuebleTechadoCochera);
-		inmobi.agregarInmueble(inmuebleTechadoPiscina);
-		
-		// Intento agregar un inmueble repetido
-		inmobi.agregarInmueble(inmuebleTechadoPiscina);
-		
-		// Intento eliminar un inmueble inexistente en el array
-		inmobi.eliminarInmueble(inmuebleTechReserVendido);
-		
-		//Imprimo todos los datos
-		inmobi.imprimirDatos();
-		System.out.println("");
-		
-		//imprimo los datos de beneficios esperados y obtenidos
+		//imprimo los datos de beneficios esperados, obtenidos, y cantidad de inmuebles
 		System.out.println("BENEFICIO ESPERADO: " + inmobi.beneficioEsperado());
 		System.out.println("BENEFICIO OBTENIDO: " + inmobi.beneficioObtenido());
+		System.out.println("Cantidad de inmuebles : " + inmobi.inmuebles.size());
+		System.out.println("");
+		System.out.println("===================================================");
+		inmobi.imprimirDatos();
+		System.out.println("Cantidad de inmuebles : " + inmobi.getInmueblesByPrecio()); 
+	
+	
 	}
 }

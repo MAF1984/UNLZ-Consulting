@@ -1,5 +1,4 @@
 package edu.unlz.taller.programacion.tp.individual;
-
 /**
  * @author maf
  *
@@ -36,19 +35,68 @@ public class InmuebleTechado extends Inmueble {
 
 	@Override
 	public void imprimirDatos() {
-		System.out.println("Domicilio: " + this.getDomicilio());
-		System.out.println("Superficie: " + this.getSuperficie() + " M2.");
-		System.out.println("Precio: " + this.getPrecio());
-		System.out.println("Reservado: " + this.getReservado());
-		System.out.println("Vendido: " + this.getVendido());
-		System.out.println("");
 		System.out.println("Cantidad de ambientes: " + this.getCantidadDeAmbientes());
 		System.out.println("Cuenta con Cochera: " + this.getTieneCochera());
 		System.out.println("Cuenta con Piscina: " + this.getTienePiscina());
 		System.out.println("");
-		this.getPropietario().imprimirDatos();
+		super.imprimirDatos();
 	}
 
+	
+	//Metodo que calcula beneficio obtenido de inmuebles aun no vendidos/Reservados
+	public Double beneficioEsperado(Double COMISION) {
+		if (this.tienePiscina == true && this.tieneCochera == false) {
+			return super.beneficioEsperado(COMISION + Constantes.COMISION_CON_PISCINA);
+		} else if (this.tieneCochera == true) {
+			return super.beneficioEsperado(COMISION + Constantes.COMISION_CON_COCHERA);
+		} else {
+			return super.beneficioEsperado(COMISION);
+		}
+	}
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((domicilio == null) ? 0 : domicilio.hashCode());
+		result = prime * result + ((precio == null) ? 0 : precio.hashCode());
+		return result;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Inmueble other = (Inmueble) obj;
+		if (domicilio == null) {
+			if (other.domicilio != null)
+				return false;
+		} else if (!domicilio.equals(other.domicilio))
+			return false;
+		if (precio == null) {
+			if (other.precio != null)
+				return false;
+		} else if (!precio.equals(other.precio))
+			return false;
+		return true;
+	}
+	
+	//Metodo que calcula beneficio obtenido de inmuebles Vendidos/Reservados
+	public Double beneficioObtenido(Double COMISION) {
+		if (this.tienePiscina == true && this.tieneCochera == false) {
+			return super.beneficioObtenido(COMISION + Constantes.COMISION_CON_PISCINA);
+		} else if (this.tieneCochera == true) {
+			return super.beneficioObtenido(COMISION + Constantes.COMISION_CON_COCHERA);
+		} else {
+			return super.beneficioObtenido(COMISION);
+		}
+	}	
+	
+	
 //GETTERS y SETTERS
 	//Getter y setter cantidad de ambientes de propiedades techadas
 	public Integer getCantidadDeAmbientes() {
