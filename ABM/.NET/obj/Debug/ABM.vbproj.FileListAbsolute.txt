@@ -1,0 +1,25 @@
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ResolveAssemblyReference.cache
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.ABM_Profesores.resources
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.Resources.resources
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.vbproj.GenerateResource.Cache
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\bin\Debug\ABM.exe
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\bin\Debug\ABM.pdb
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\bin\Debug\ABM.xml
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.exe
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.xml
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.pdb
+C:\ABM\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.exe
+C:\ABM\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.xml
+C:\ABM\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.pdb
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.exe
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.xml
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.pdb
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.exe
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.pdb
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.xml
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.vbprojAssemblyReference.cache
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.ABM_Profesores.resources
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.Resources.resources
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.vbproj.GenerateResource.cache
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.vbproj.CoreCompileInputs.cache
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.exe.config
