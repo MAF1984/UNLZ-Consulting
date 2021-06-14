@@ -1,0 +1,12 @@
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\bin\Debug\Navegador_VB.exe.config
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\bin\Debug\Navegador_VB.exe
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\bin\Debug\Navegador_VB.pdb
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\bin\Debug\Navegador_VB.xml
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\obj\Debug\Navegador_VB.vbprojAssemblyReference.cache
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\obj\Debug\Navegador_VB.Resources.resources
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\obj\Debug\Navegador_VB.vbproj.GenerateResource.cache
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\obj\Debug\Navegador_VB.vbproj.CoreCompileInputs.cache
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\obj\Debug\Navegador_VB.exe
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\obj\Debug\Navegador_VB.xml
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\obj\Debug\Navegador_VB.pdb
+D:\git\facultad_Programacion_III\Clase_2\Navegador_VB\obj\Debug\Navegador_VB.Form1.resources

@@ -1,0 +1,27 @@
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ResolveAssemblyReference.cache
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.ABM_Profesores.resources
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.Resources.resources
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.vbproj.GenerateResource.Cache
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\bin\Debug\ABM.exe
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\bin\Debug\ABM.pdb
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\bin\Debug\ABM.xml
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.exe
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.xml
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.pdb
+C:\ABM\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.exe
+C:\ABM\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.xml
+C:\ABM\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.pdb
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.exe
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.xml
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.pdb
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM 1\ABM\bin\Debug\ABM.exe
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM 1\ABM\bin\Debug\ABM.pdb
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM 1\ABM\bin\Debug\ABM.xml
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM 1\ABM\obj\Debug\ABM.vbprojAssemblyReference.cache
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM 1\ABM\obj\Debug\ABM.ABM_Profesores.resources
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM 1\ABM\obj\Debug\ABM.Resources.resources
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM 1\ABM\obj\Debug\ABM.vbproj.GenerateResource.cache
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM 1\ABM\obj\Debug\ABM.vbproj.CoreCompileInputs.cache
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM 1\ABM\obj\Debug\ABM.exe
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM 1\ABM\obj\Debug\ABM.xml
+K:\Guillermo\Sistemas\CURSO\ABM_PARA_CURSO\ABM 1\ABM\obj\Debug\ABM.pdb

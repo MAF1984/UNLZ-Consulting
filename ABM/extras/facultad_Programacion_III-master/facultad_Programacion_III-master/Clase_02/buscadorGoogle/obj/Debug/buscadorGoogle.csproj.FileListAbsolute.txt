@@ -1,0 +1,10 @@
+D:\git\facultad_Programacion_III\buscadorGoogle\bin\Debug\buscadorGoogle.exe.config
+D:\git\facultad_Programacion_III\buscadorGoogle\bin\Debug\buscadorGoogle.exe
+D:\git\facultad_Programacion_III\buscadorGoogle\bin\Debug\buscadorGoogle.pdb
+D:\git\facultad_Programacion_III\buscadorGoogle\obj\Debug\buscadorGoogle.csprojAssemblyReference.cache
+D:\git\facultad_Programacion_III\buscadorGoogle\obj\Debug\buscadorGoogle.Form1.resources
+D:\git\facultad_Programacion_III\buscadorGoogle\obj\Debug\buscadorGoogle.Properties.Resources.resources
+D:\git\facultad_Programacion_III\buscadorGoogle\obj\Debug\buscadorGoogle.csproj.GenerateResource.cache
+D:\git\facultad_Programacion_III\buscadorGoogle\obj\Debug\buscadorGoogle.csproj.CoreCompileInputs.cache
+D:\git\facultad_Programacion_III\buscadorGoogle\obj\Debug\buscadorGoogle.exe
+D:\git\facultad_Programacion_III\buscadorGoogle\obj\Debug\buscadorGoogle.pdb

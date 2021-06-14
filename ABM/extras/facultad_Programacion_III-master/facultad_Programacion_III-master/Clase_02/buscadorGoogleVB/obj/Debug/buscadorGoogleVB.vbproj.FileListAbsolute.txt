@@ -1,0 +1,12 @@
+D:\git\facultad_Programacion_III\buscadorGoogleVB\obj\Debug\buscadorGoogleVB.vbprojAssemblyReference.cache
+D:\git\facultad_Programacion_III\buscadorGoogleVB\obj\Debug\buscadorGoogleVB.Form1.resources
+D:\git\facultad_Programacion_III\buscadorGoogleVB\obj\Debug\buscadorGoogleVB.Resources.resources
+D:\git\facultad_Programacion_III\buscadorGoogleVB\obj\Debug\buscadorGoogleVB.vbproj.GenerateResource.cache
+D:\git\facultad_Programacion_III\buscadorGoogleVB\obj\Debug\buscadorGoogleVB.vbproj.CoreCompileInputs.cache
+D:\git\facultad_Programacion_III\buscadorGoogleVB\bin\Debug\buscadorGoogleVB.exe.config
+D:\git\facultad_Programacion_III\buscadorGoogleVB\bin\Debug\buscadorGoogleVB.exe
+D:\git\facultad_Programacion_III\buscadorGoogleVB\bin\Debug\buscadorGoogleVB.pdb
+D:\git\facultad_Programacion_III\buscadorGoogleVB\bin\Debug\buscadorGoogleVB.xml
+D:\git\facultad_Programacion_III\buscadorGoogleVB\obj\Debug\buscadorGoogleVB.exe
+D:\git\facultad_Programacion_III\buscadorGoogleVB\obj\Debug\buscadorGoogleVB.xml
+D:\git\facultad_Programacion_III\buscadorGoogleVB\obj\Debug\buscadorGoogleVB.pdb

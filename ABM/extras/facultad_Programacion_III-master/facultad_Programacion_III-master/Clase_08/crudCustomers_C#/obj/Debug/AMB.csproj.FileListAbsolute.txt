@@ -1,0 +1,10 @@
+D:\Dev\.NET\Facultad\abmCustomers\C#\obj\Debug\AMB.csprojAssemblyReference.cache
+D:\Dev\.NET\Facultad\abmCustomers\C#\obj\Debug\AMB.Properties.Resources.resources
+D:\Dev\.NET\Facultad\abmCustomers\C#\obj\Debug\AMB.csproj.GenerateResource.cache
+D:\Dev\.NET\Facultad\abmCustomers\C#\obj\Debug\AMB.csproj.CoreCompileInputs.cache
+D:\Dev\.NET\Facultad\abmCustomers\C#\bin\Debug\AMB.exe.config
+D:\Dev\.NET\Facultad\abmCustomers\C#\bin\Debug\AMB.exe
+D:\Dev\.NET\Facultad\abmCustomers\C#\bin\Debug\AMB.pdb
+D:\Dev\.NET\Facultad\abmCustomers\C#\obj\Debug\AMB.exe
+D:\Dev\.NET\Facultad\abmCustomers\C#\obj\Debug\AMB.pdb
+D:\Dev\.NET\Facultad\abmCustomers\C#\obj\Debug\AMB.abmCustomers.resources

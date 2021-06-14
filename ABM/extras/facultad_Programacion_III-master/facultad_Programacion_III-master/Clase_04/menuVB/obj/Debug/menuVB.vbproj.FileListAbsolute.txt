@@ -1,0 +1,4 @@
+D:\git\facultad_Programacion_III\Clase_04\menuVB\obj\Debug\menuVB.vbprojAssemblyReference.cache
+D:\git\facultad_Programacion_III\Clase_04\menuVB\obj\Debug\menuVB.Resources.resources
+D:\git\facultad_Programacion_III\Clase_04\menuVB\obj\Debug\menuVB.vbproj.GenerateResource.cache
+D:\git\facultad_Programacion_III\Clase_04\menuVB\obj\Debug\menuVB.vbproj.CoreCompileInputs.cache

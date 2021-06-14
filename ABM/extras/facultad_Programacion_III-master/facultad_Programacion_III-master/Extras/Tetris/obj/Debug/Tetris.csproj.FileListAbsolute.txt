@@ -1,0 +1,10 @@
+C:\Users\jromano\Documents\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\jromano\Documents\Tetris\bin\Debug\Tetris.exe
+C:\Users\jromano\Documents\Tetris\bin\Debug\Tetris.pdb
+C:\Users\jromano\Documents\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\jromano\Documents\Tetris\obj\Debug\Tetris.AcerdaDe.resources
+C:\Users\jromano\Documents\Tetris\obj\Debug\Tetris.frmGUI.resources
+C:\Users\jromano\Documents\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\jromano\Documents\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\jromano\Documents\Tetris\obj\Debug\Tetris.exe
+C:\Users\jromano\Documents\Tetris\obj\Debug\Tetris.pdb

@@ -1,0 +1,48 @@
+D:\Dev\.NET\Facultad\abmCustomers\VB\bin\Debug\ABM.exe.config
+D:\Dev\.NET\Facultad\abmCustomers\VB\bin\Debug\ABM.exe
+D:\Dev\.NET\Facultad\abmCustomers\VB\bin\Debug\ABM.pdb
+D:\Dev\.NET\Facultad\abmCustomers\VB\bin\Debug\ABM.xml
+D:\Dev\.NET\Facultad\abmCustomers\VB\obj\Debug\ABM.vbprojAssemblyReference.cache
+D:\Dev\.NET\Facultad\abmCustomers\VB\obj\Debug\ABM.Resources.resources
+D:\Dev\.NET\Facultad\abmCustomers\VB\obj\Debug\ABM.vbproj.GenerateResource.cache
+D:\Dev\.NET\Facultad\abmCustomers\VB\obj\Debug\ABM.vbproj.CoreCompileInputs.cache
+D:\Dev\.NET\Facultad\abmCustomers\VB\obj\Debug\ABM.exe
+D:\Dev\.NET\Facultad\abmCustomers\VB\obj\Debug\ABM.xml
+D:\Dev\.NET\Facultad\abmCustomers\VB\obj\Debug\ABM.pdb
+D:\Dev\.NET\Facultad\abmCustomers\VB\obj\Debug\ABM.abmCustomers.resources
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\bin\Debug\ABM.exe.config
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\bin\Debug\ABM.exe
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\bin\Debug\ABM.pdb
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\bin\Debug\ABM.xml
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\obj\Debug\ABM.vbprojAssemblyReference.cache
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\obj\Debug\ABM.abmCustomers.resources
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\obj\Debug\ABM.Resources.resources
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\obj\Debug\ABM.vbproj.GenerateResource.cache
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\obj\Debug\ABM.vbproj.CoreCompileInputs.cache
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\obj\Debug\ABM.exe
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\obj\Debug\ABM.xml
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Alumnos\Martin Jose Pared Baez\programacionIIIUNLZ.NET-master\programacionIIIUNLZ.NET-master\abmCustomers\VB\obj\Debug\ABM.pdb
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\bin\Debug\ABM.exe.config
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\bin\Debug\ABM.exe
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\bin\Debug\ABM.pdb
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\bin\Debug\ABM.xml
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\obj\Debug\ABM.vbprojAssemblyReference.cache
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\obj\Debug\ABM.abmCustomers.resources
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\obj\Debug\ABM.Resources.resources
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\obj\Debug\ABM.vbproj.GenerateResource.cache
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\obj\Debug\ABM.vbproj.CoreCompileInputs.cache
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\obj\Debug\ABM.exe
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\obj\Debug\ABM.xml
+K:\Guillermo\Notas, Presupuestos y CV\Universidad\Clase_12\Clase_12\obj\Debug\ABM.pdb
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\bin\Debug\ABM.exe.config
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\bin\Debug\ABM.exe
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\bin\Debug\ABM.pdb
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\bin\Debug\ABM.xml
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\obj\Debug\ABM.vbprojAssemblyReference.cache
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\obj\Debug\ABM.abmCustomers.resources
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\obj\Debug\ABM.Resources.resources
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\obj\Debug\ABM.vbproj.GenerateResource.cache
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\obj\Debug\ABM.vbproj.CoreCompileInputs.cache
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\obj\Debug\ABM.exe
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\obj\Debug\ABM.xml
+D:\Dev\.NET\Facultad\abmMultiGrids\VB\obj\Debug\ABM.pdb

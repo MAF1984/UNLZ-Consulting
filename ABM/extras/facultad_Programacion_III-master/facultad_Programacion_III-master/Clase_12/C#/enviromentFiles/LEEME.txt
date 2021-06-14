@@ -1,0 +1,2 @@
+1.	Copiar y pegar el directorio Connections en C:\
+2.	Editar los archivos .txt dentro de Connections con los paramentros SQL de tu ordenador

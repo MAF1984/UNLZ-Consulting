@@ -1,0 +1,2 @@
+En el SQL Server Crear la Base de datos "SISTEMA"
+Con un Log de Tamaño de 1MB
