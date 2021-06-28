@@ -1,0 +1,14 @@
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\bin\Debug\UNLZ-Consulting-ABM.exe.config
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\bin\Debug\UNLZ-Consulting-ABM.exe
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\bin\Debug\UNLZ-Consulting-ABM.pdb
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\obj\Debug\UNLZ-Consulting-ABM.csproj.AssemblyReference.cache
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\obj\Debug\UNLZ_Consulting_ABM.Login.resources
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\obj\Debug\UNLZ_Consulting_ABM.Properties.Resources.resources
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\obj\Debug\UNLZ-Consulting-ABM.csproj.GenerateResource.cache
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\obj\Debug\UNLZ-Consulting-ABM.csproj.CoreCompileInputs.cache
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\obj\Debug\UNLZ-Consulting-ABM.csproj.CopyComplete
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\obj\Debug\UNLZ-Consulting-ABM.exe
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\obj\Debug\UNLZ-Consulting-ABM.pdb
+C:\Users\MAF\source\repos\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\UNLZ-Consulting-ABM\bin\Debug\FontAwesome.Sharp.dll

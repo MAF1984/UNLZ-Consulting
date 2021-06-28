@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UXAYXrvgAVNHobOjajddWtLcLSjwEPzqWmUSR6b52i+HtgAL/aoRfpLq01xeFS3YU7esxY3qHxAVBbh7Ox+w5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAF\\source\\repos\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAF\\.nuget\\packages\\fontawesome.sharp\\5.15.3\\fontawesome.sharp.5.15.3.nupkg.sha512"
+  ],
+  "logs": []
+}

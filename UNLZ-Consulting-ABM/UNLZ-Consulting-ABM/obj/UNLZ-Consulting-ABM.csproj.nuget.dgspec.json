@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MAF\\source\\repos\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MAF\\source\\repos\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MAF\\source\\repos\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM.csproj",
+        "projectName": "UNLZ-Consulting-ABM",
+        "projectPath": "C:\\Users\\MAF\\source\\repos\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM.csproj",
+        "packagesPath": "C:\\Users\\MAF\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAF\\source\\repos\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\UNLZ-Consulting-ABM\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MAF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[5.15.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facturador", "facturador.csproj", "{FA33D78B-CF43-4992-8FAB-27242F47521E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA33D78B-CF43-4992-8FAB-27242F47521E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA33D78B-CF43-4992-8FAB-27242F47521E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA33D78B-CF43-4992-8FAB-27242F47521E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA33D78B-CF43-4992-8FAB-27242F47521E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5E96C65-15CA-419A-8E26-CEA9C1B2BA45}
+	EndGlobalSection
+EndGlobal
