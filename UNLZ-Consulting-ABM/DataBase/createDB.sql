@@ -1,7 +1,7 @@
 --creacion de base de datos--
-create database UNLZ-consulting-AMB
+create database UNLZConsultingAMB
 go
-use UNLZ-consulting-AMB
+use UNLZConsultingAMB
 
 SET ANSI_NULLS ON
 GO
@@ -12,28 +12,30 @@ GO
 create table Idm 
 (
 Id int identity (1,1) not null primary key,
-User nvarchar (30) null,
-Pass nvarchar (30) null,
+Usuario nvarchar (30) null,
+Clave nvarchar (30) null,
+Nombre nvarchar (30) null, 
+Apellido nvarchar (30) null  
 )
 
 
 --creacion de tablas Clientes--
-create table Clientes 
+create table clientes 
 (
 Id int identity (1,1) not null primary key,
 Apellido nvarchar (30) null,
 Nombre nvarchar (30) null,
 Documento nvarchar (50) null default 0,
+FechaNacimiento date null default getdate(),
+Estado bit null default 0, 
 Cuit nvarchar (50) null default 0,
 Domicilio nvarchar (50) null default '',
-CodigoPostal nvarchar (10) null default 1001,
 Localidad nvarchar (20) null default 'CABA',
+Postal nvarchar (10) null default 1001,
 Provincia nvarchar (30) null default 'Buenos Aires',
 Telefono nvarchar (30) null default '',
-FechaNacimiento date null default getdate(),
 Email nvarchar (35) null default '',
-Comentarios nvarchar (200) null default '',
-Estado bit null default 0,
+Comentarios nvarchar (200) null default ''
 )
 
 --creacion de tablas Proveedores--
@@ -58,15 +60,16 @@ Estado bit null default 0,
 
 --Inserts en tablas 
 ---insert de datos en tabla clientes--
-insert into Idm (User,Pass) values ('jgomez@gmail.com','123456')
+insert into idm (Usuario,Clave, Nombre, Apellido) values ('jlgomez','123456','Jorge','Gomez')
+insert into idm (Usuario,Clave, Nombre, Apellido) values ('mfleming84','123456','Mariano','Fleming')
 go
 
 ---insert de datos en tabla clientes--
-insert into Clientes (Apellido,Nombre,Documento,Cuit,Domicilio,CodigoPostal,Localidad,Provincia,Telefono,FechaNacimiento,Email,Comentarios) values ('Gomez','jorge','32145574','27-32145574-7','Davel 2054','1854','Longchamps','Buenos Aires','42973033','2008-11-11','jgomez@gmail.com','Primer cliente de la aplicacion')
+insert into Clientes (Apellido,Nombre,Documento,Cuit,Domicilio,Postal,Localidad,Provincia,Telefono,FechaNacimiento,Email,Comentarios) values ('Gomez','jorge','32145574','27-32145574-7','Davel 2054','1854','Longchamps','Buenos Aires','42973033','2008-11-11','jgomez@gmail.com','Primer cliente de la aplicacion')
 go
 
 ---insert de datos en tabla clientes--
-insert into Proveedores (Apellido,Nombre,Documento,Cuit,Domicilio,CodigoPostal,Localidad,Provincia,Telefono,FechaNacimiento,Email,Comentarios) values ('Gomez','juan','32145574','27-32145574-7','Davel 2054','1854','Longchamps','Buenos Aires','42973033','2008-11-11','jgomez@gmail.com','Primer cliente de la aplicacion')
+insert into Proveedores (Apellido,Nombre,Documento,Cuit,Domicilio,Postal,Localidad,Provincia,Telefono,FechaNacimiento,Email,Comentarios) values ('Gomez','juan','32145574','27-32145574-7','Davel 2054','1854','Longchamps','Buenos Aires','42973033','2008-11-11','jgomez@gmail.com','Primer cliente de la aplicacion')
 go
 
 
@@ -74,9 +77,14 @@ go
 ---CLIENTES
 
 --SP Select tabla Clientes
-create proc SelClientes
+create proc ClientesBusqueda
+@Id int identity (1,1),
+@Apellido nvarchar (30) null,
+@Cuit nvarchar (50) null default 0,
 as
-select * from Clientes
+BEGIN
+select TOP 10 COUNT(*) from clientes
+WHERE 
 go
 
 --SP Insert tabla Clientes 

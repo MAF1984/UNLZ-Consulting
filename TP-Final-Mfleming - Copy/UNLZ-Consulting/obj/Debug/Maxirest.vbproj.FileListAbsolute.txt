@@ -1,0 +1,64 @@
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.vbprojAssemblyReference.cache
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.pLogin.resources
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.Menu.resources
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.vbproj.GenerateResource.cache
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\bin\Debug\Maxirest.exe.config
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\bin\Debug\Maxirest.exe
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\bin\Debug\Maxirest.pdb
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\bin\Debug\Maxirest.xml
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.Resources.resources
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.vbproj.CoreCompileInputs.cache
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.exe
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.xml
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.pdb
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.Proveedores.resources
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.Clientes.resources
+D:\FACULTAD _PROGRAMACION\PROGRAMACION\C#   y . NET\Visual basic\Maxirest\obj\Debug\Maxirest.Usuarios.resources
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\bin\Debug\Maxirest.exe.config
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\bin\Debug\Maxirest.exe
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\bin\Debug\Maxirest.pdb
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\bin\Debug\Maxirest.xml
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.vbproj.AssemblyReference.cache
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.Clientes.resources
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.pLogin.resources
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.Menu.resources
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.Resources.resources
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.Proveedores.resources
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.Usuarios.resources
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.vbproj.GenerateResource.cache
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.vbproj.CoreCompileInputs.cache
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.exe
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.xml
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.pdb
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\MAF\Downloads\TPmaxirest\Maxirest\obj\Debug\Maxirest.vbproj.CopyComplete
+C:\Users\MAF\Downloads\TP-Final-Mfleming\UNLZ-Consulting\obj\Debug\Maxirest.vbproj.AssemblyReference.cache
+C:\Users\MAF\Downloads\TP-Final-Mfleming\UNLZ-Consulting\obj\Debug\Maxirest.Clientes.resources
+C:\Users\MAF\Downloads\TP-Final-Mfleming\UNLZ-Consulting\obj\Debug\Maxirest.pLogin.resources
+C:\Users\MAF\Downloads\TP-Final-Mfleming\UNLZ-Consulting\obj\Debug\Maxirest.Menu.resources
+C:\Users\MAF\Downloads\TP-Final-Mfleming\UNLZ-Consulting\obj\Debug\Maxirest.Proveedores.resources
+C:\Users\MAF\Downloads\TP-Final-Mfleming\UNLZ-Consulting\obj\Debug\Maxirest.Usuarios.resources
+C:\Users\MAF\Downloads\TP-Final-Mfleming\UNLZ-Consulting\obj\Debug\Maxirest.vbproj.GenerateResource.cache
+C:\Users\MAF\Downloads\TP-Final-Mfleming\UNLZ-Consulting\obj\Debug\Maxirest.exe
+C:\Users\MAF\Downloads\TP-Final-Mfleming\UNLZ-Consulting\obj\Debug\Maxirest.xml
+C:\Users\MAF\Downloads\TP-Final-Mfleming\UNLZ-Consulting\obj\Debug\Maxirest.pdb
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\bin\Debug\Maxirest.exe.config
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\bin\Debug\Maxirest.exe
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\bin\Debug\Maxirest.pdb
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\bin\Debug\Maxirest.xml
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.vbproj.AssemblyReference.cache
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.Clientes.resources
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.pLogin.resources
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.Menu.resources
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.Resources.resources
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.Proveedores.resources
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.Usuarios.resources
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.vbproj.GenerateResource.cache
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.vbproj.CoreCompileInputs.cache
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.vbproj.CopyComplete
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.exe
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.xml
+C:\Users\MAF\Downloads\TP-Final-Mfleming - Copy\UNLZ-Consulting\obj\Debug\Maxirest.pdb

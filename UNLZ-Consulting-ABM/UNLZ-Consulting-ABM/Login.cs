@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using FontAwesome.Sharp;
 
 namespace UNLZ_Consulting_ABM
 {
@@ -30,7 +31,7 @@ namespace UNLZ_Consulting_ABM
 
         private void bIngresar_Click(object sender, EventArgs e)
         {
-            using 
+             
         }
 
         private void iconButton1_Click(object sender, EventArgs e)
