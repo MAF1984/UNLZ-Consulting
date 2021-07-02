@@ -101,7 +101,7 @@ Partial Class Proveedores
         Me.TBuscar.Location = New System.Drawing.Point(13, 65)
         Me.TBuscar.Margin = New System.Windows.Forms.Padding(1, 2, 1, 2)
         Me.TBuscar.Name = "TBuscar"
-        Me.TBuscar.Size = New System.Drawing.Size(275, 30)
+        Me.TBuscar.Size = New System.Drawing.Size(275, 22)
         Me.TBuscar.TabIndex = 102
         '
         'Label1
@@ -112,7 +112,7 @@ Partial Class Proveedores
         Me.Label1.Location = New System.Drawing.Point(-3, 22)
         Me.Label1.Margin = New System.Windows.Forms.Padding(1, 0, 1, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(0, 24)
+        Me.Label1.Size = New System.Drawing.Size(0, 17)
         Me.Label1.TabIndex = 103
         '
         'bEliminar
@@ -157,12 +157,12 @@ Partial Class Proveedores
         '
         'DataGridView1
         '
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView1.ColumnHeadersHeight = 21
         Me.DataGridView1.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.NPro, Me.Nombre})
-        Me.DataGridView1.Location = New System.Drawing.Point(13, 167)
+        Me.DataGridView1.Location = New System.Drawing.Point(27, 170)
         Me.DataGridView1.Name = "DataGridView1"
         Me.DataGridView1.RowHeadersWidth = 62
-        Me.DataGridView1.Size = New System.Drawing.Size(315, 306)
+        Me.DataGridView1.Size = New System.Drawing.Size(269, 282)
         Me.DataGridView1.TabIndex = 108
         '
         'NPro
@@ -188,7 +188,7 @@ Partial Class Proveedores
         Me.lLegajo.BackColor = System.Drawing.Color.White
         Me.lLegajo.Location = New System.Drawing.Point(334, 167)
         Me.lLegajo.Name = "lLegajo"
-        Me.lLegajo.Size = New System.Drawing.Size(20, 21)
+        Me.lLegajo.Size = New System.Drawing.Size(15, 16)
         Me.lLegajo.TabIndex = 109
         Me.lLegajo.Text = "0"
         '
@@ -240,7 +240,7 @@ Partial Class Proveedores
         Me.Label7.ForeColor = System.Drawing.SystemColors.Control
         Me.Label7.Location = New System.Drawing.Point(-2, 413)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(130, 21)
+        Me.Label7.Size = New System.Drawing.Size(90, 16)
         Me.Label7.TabIndex = 43
         Me.Label7.Text = "Comentarios:"
         '
@@ -248,7 +248,7 @@ Partial Class Proveedores
         '
         Me.TextCodigo.Location = New System.Drawing.Point(137, 193)
         Me.TextCodigo.Name = "TextCodigo"
-        Me.TextCodigo.Size = New System.Drawing.Size(169, 30)
+        Me.TextCodigo.Size = New System.Drawing.Size(169, 22)
         Me.TextCodigo.TabIndex = 42
         '
         'Label4
@@ -257,7 +257,7 @@ Partial Class Proveedores
         Me.Label4.ForeColor = System.Drawing.SystemColors.Control
         Me.Label4.Location = New System.Drawing.Point(3, 196)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(142, 21)
+        Me.Label4.Size = New System.Drawing.Size(95, 16)
         Me.Label4.TabIndex = 41
         Me.Label4.Text = "Codigo postal:"
         '
@@ -265,7 +265,7 @@ Partial Class Proveedores
         '
         Me.TextCUIT.Location = New System.Drawing.Point(138, 119)
         Me.TextCUIT.Name = "TextCUIT"
-        Me.TextCUIT.Size = New System.Drawing.Size(170, 30)
+        Me.TextCUIT.Size = New System.Drawing.Size(170, 22)
         Me.TextCUIT.TabIndex = 40
         '
         'Label3
@@ -274,7 +274,7 @@ Partial Class Proveedores
         Me.Label3.ForeColor = System.Drawing.SystemColors.ControlLightLight
         Me.Label3.Location = New System.Drawing.Point(3, 122)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(52, 21)
+        Me.Label3.Size = New System.Drawing.Size(37, 16)
         Me.Label3.TabIndex = 39
         Me.Label3.Text = "CUIT:"
         '
@@ -284,7 +284,7 @@ Partial Class Proveedores
         Me.CheckBox1.ForeColor = System.Drawing.Color.White
         Me.CheckBox1.Location = New System.Drawing.Point(313, 81)
         Me.CheckBox1.Name = "CheckBox1"
-        Me.CheckBox1.Size = New System.Drawing.Size(106, 25)
+        Me.CheckBox1.Size = New System.Drawing.Size(74, 20)
         Me.CheckBox1.TabIndex = 38
         Me.CheckBox1.Text = "Activo?"
         Me.CheckBox1.UseVisualStyleBackColor = True
@@ -295,7 +295,7 @@ Partial Class Proveedores
         Me.Label2.ForeColor = System.Drawing.Color.White
         Me.Label2.Location = New System.Drawing.Point(3, 269)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(97, 21)
+        Me.Label2.Size = New System.Drawing.Size(66, 16)
         Me.Label2.TabIndex = 37
         Me.Label2.Text = "Provincia:"
         '
@@ -304,7 +304,7 @@ Partial Class Proveedores
         Me.TextProvincia.Location = New System.Drawing.Point(138, 266)
         Me.TextProvincia.MaxLength = 20
         Me.TextProvincia.Name = "TextProvincia"
-        Me.TextProvincia.Size = New System.Drawing.Size(269, 30)
+        Me.TextProvincia.Size = New System.Drawing.Size(269, 22)
         Me.TextProvincia.TabIndex = 36
         '
         'Label12
@@ -313,7 +313,7 @@ Partial Class Proveedores
         Me.Label12.ForeColor = System.Drawing.Color.White
         Me.Label12.Location = New System.Drawing.Point(3, 345)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(71, 21)
+        Me.Label12.Size = New System.Drawing.Size(48, 16)
         Me.Label12.TabIndex = 25
         Me.Label12.Text = "Fecha:"
         '
@@ -322,7 +322,7 @@ Partial Class Proveedores
         Me.DateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
         Me.DateTimePicker1.Location = New System.Drawing.Point(138, 338)
         Me.DateTimePicker1.Name = "DateTimePicker1"
-        Me.DateTimePicker1.Size = New System.Drawing.Size(169, 30)
+        Me.DateTimePicker1.Size = New System.Drawing.Size(169, 22)
         Me.DateTimePicker1.TabIndex = 13
         '
         'Label11
@@ -331,7 +331,7 @@ Partial Class Proveedores
         Me.Label11.ForeColor = System.Drawing.Color.White
         Me.Label11.Location = New System.Drawing.Point(3, 377)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(61, 21)
+        Me.Label11.Size = New System.Drawing.Size(43, 16)
         Me.Label11.TabIndex = 23
         Me.Label11.Text = "Email:"
         '
@@ -340,7 +340,7 @@ Partial Class Proveedores
         Me.TextEmail.Location = New System.Drawing.Point(138, 374)
         Me.TextEmail.MaxLength = 35
         Me.TextEmail.Name = "TextEmail"
-        Me.TextEmail.Size = New System.Drawing.Size(271, 30)
+        Me.TextEmail.Size = New System.Drawing.Size(271, 22)
         Me.TextEmail.TabIndex = 12
         '
         'Label10
@@ -349,7 +349,7 @@ Partial Class Proveedores
         Me.Label10.ForeColor = System.Drawing.Color.White
         Me.Label10.Location = New System.Drawing.Point(2, 305)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(91, 21)
+        Me.Label10.Size = New System.Drawing.Size(60, 16)
         Me.Label10.TabIndex = 21
         Me.Label10.Text = "Teléfono:"
         '
@@ -358,7 +358,7 @@ Partial Class Proveedores
         Me.TextTelefono.Location = New System.Drawing.Point(138, 302)
         Me.TextTelefono.MaxLength = 30
         Me.TextTelefono.Name = "TextTelefono"
-        Me.TextTelefono.Size = New System.Drawing.Size(269, 30)
+        Me.TextTelefono.Size = New System.Drawing.Size(269, 22)
         Me.TextTelefono.TabIndex = 11
         '
         'Label9
@@ -367,7 +367,7 @@ Partial Class Proveedores
         Me.Label9.ForeColor = System.Drawing.Color.White
         Me.Label9.Location = New System.Drawing.Point(3, 232)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(103, 21)
+        Me.Label9.Size = New System.Drawing.Size(70, 16)
         Me.Label9.TabIndex = 19
         Me.Label9.Text = "Localidad:"
         '
@@ -376,7 +376,7 @@ Partial Class Proveedores
         Me.TextLocalidad.Location = New System.Drawing.Point(138, 229)
         Me.TextLocalidad.MaxLength = 10
         Me.TextLocalidad.Name = "TextLocalidad"
-        Me.TextLocalidad.Size = New System.Drawing.Size(269, 30)
+        Me.TextLocalidad.Size = New System.Drawing.Size(269, 22)
         Me.TextLocalidad.TabIndex = 10
         '
         'Label8
@@ -385,7 +385,7 @@ Partial Class Proveedores
         Me.Label8.ForeColor = System.Drawing.Color.White
         Me.Label8.Location = New System.Drawing.Point(3, 160)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(96, 21)
+        Me.Label8.Size = New System.Drawing.Size(68, 16)
         Me.Label8.TabIndex = 17
         Me.Label8.Text = "Domicilio:"
         '
@@ -394,7 +394,7 @@ Partial Class Proveedores
         Me.TextDomicilio.Location = New System.Drawing.Point(139, 157)
         Me.TextDomicilio.MaxLength = 50
         Me.TextDomicilio.Name = "TextDomicilio"
-        Me.TextDomicilio.Size = New System.Drawing.Size(268, 30)
+        Me.TextDomicilio.Size = New System.Drawing.Size(268, 22)
         Me.TextDomicilio.TabIndex = 9
         '
         'Label6
@@ -403,7 +403,7 @@ Partial Class Proveedores
         Me.Label6.ForeColor = System.Drawing.Color.White
         Me.Label6.Location = New System.Drawing.Point(8, 87)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(47, 21)
+        Me.Label6.Size = New System.Drawing.Size(33, 16)
         Me.Label6.TabIndex = 14
         Me.Label6.Text = "Doc"
         '
@@ -412,7 +412,7 @@ Partial Class Proveedores
         Me.TextDoc.Location = New System.Drawing.Point(137, 81)
         Me.TextDoc.MaxLength = 8
         Me.TextDoc.Name = "TextDoc"
-        Me.TextDoc.Size = New System.Drawing.Size(170, 30)
+        Me.TextDoc.Size = New System.Drawing.Size(170, 22)
         Me.TextDoc.TabIndex = 7
         '
         'lApellido
@@ -421,7 +421,7 @@ Partial Class Proveedores
         Me.lApellido.ForeColor = System.Drawing.Color.White
         Me.lApellido.Location = New System.Drawing.Point(2, 44)
         Me.lApellido.Name = "lApellido"
-        Me.lApellido.Size = New System.Drawing.Size(126, 21)
+        Me.lApellido.Size = New System.Drawing.Size(83, 16)
         Me.lApellido.TabIndex = 5
         Me.lApellido.Text = "Razon social:"
         '
@@ -430,7 +430,7 @@ Partial Class Proveedores
         Me.TextRazonSocial.Location = New System.Drawing.Point(136, 41)
         Me.TextRazonSocial.MaxLength = 30
         Me.TextRazonSocial.Name = "TextRazonSocial"
-        Me.TextRazonSocial.Size = New System.Drawing.Size(272, 30)
+        Me.TextRazonSocial.Size = New System.Drawing.Size(272, 22)
         Me.TextRazonSocial.TabIndex = 5
         '
         'LNombre
@@ -440,7 +440,7 @@ Partial Class Proveedores
         Me.LNombre.ForeColor = System.Drawing.Color.White
         Me.LNombre.Location = New System.Drawing.Point(3, 8)
         Me.LNombre.Name = "LNombre"
-        Me.LNombre.Size = New System.Drawing.Size(80, 21)
+        Me.LNombre.Size = New System.Drawing.Size(58, 16)
         Me.LNombre.TabIndex = 3
         Me.LNombre.Text = "Nombre"
         '
@@ -449,7 +449,7 @@ Partial Class Proveedores
         Me.TexNombre.Location = New System.Drawing.Point(136, 5)
         Me.TexNombre.MaxLength = 30
         Me.TexNombre.Name = "TexNombre"
-        Me.TexNombre.Size = New System.Drawing.Size(272, 30)
+        Me.TexNombre.Size = New System.Drawing.Size(272, 22)
         Me.TexNombre.TabIndex = 4
         '
         'Label5
@@ -459,7 +459,7 @@ Partial Class Proveedores
         Me.Label5.ForeColor = System.Drawing.SystemColors.WindowText
         Me.Label5.Location = New System.Drawing.Point(12, 21)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(333, 26)
+        Me.Label5.Size = New System.Drawing.Size(235, 18)
         Me.Label5.TabIndex = 112
         Me.Label5.Text = "Ingrese nombre del Proveedor" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
@@ -487,8 +487,7 @@ Partial Class Proveedores
         '
         'Proveedores
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(11.0!, 21.0!)
-        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None
         Me.BackColor = System.Drawing.SystemColors.ControlLight
         Me.ClientSize = New System.Drawing.Size(834, 578)
         Me.Controls.Add(Me.Label5)
@@ -507,6 +506,7 @@ Partial Class Proveedores
         Me.Name = "Proveedores"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Proveedores"
+        Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.pCampos.ResumeLayout(False)
         Me.pCampos.PerformLayout()

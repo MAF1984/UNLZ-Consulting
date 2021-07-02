@@ -118,8 +118,7 @@ Public Class Menu
     End Sub
 
     Private Sub bUsuario_Click(sender As Object, e As EventArgs) Handles bUsuario.Click
-        Dim usu As New Usuarios()
-        usu.ShowDialog()
+        AbrirFormEnPanel(Of Usuarios)()
     End Sub
 
     Private Sub PanelContenedor_Paint(sender As Object, e As PaintEventArgs) Handles PanelContenedor.Paint

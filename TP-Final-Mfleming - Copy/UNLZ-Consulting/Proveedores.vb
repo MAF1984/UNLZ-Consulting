@@ -151,4 +151,7 @@ Public Class Proveedores
         End If
     End Sub
 
+    Private Sub lLegajo_Click(sender As Object, e As EventArgs) Handles lLegajo.Click
+
+    End Sub
 End Class
